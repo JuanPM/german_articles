@@ -1,7 +1,7 @@
 german_articles
 ==============================
 
-Using ML to determine which word endings correlate strongly with german articles. The goal of this project is to generate a list of rules, which non-german speakers can use to correctly classify (most) words as masculine, feminine, or neutral gender. 
+Using ML to determine which word endings correlate strongly with german articles. The goal of this project is to generate a list of rules, which non-german speakers can use to correctly classify (most) words as either masculine, feminine, or neutral gender.
 
 Project Organization
 ------------
